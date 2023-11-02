@@ -1,0 +1,26 @@
+{
+  "name": "inventory-app-project",
+  "version": "1.0.0",
+  "description": "An application where employees can keep track of the inventory of a book store. Employees can add new books, update books, see a list of books, see details of one book and delete books.",
+  "main": "index.js",
+  "scripts": {
+    "updateBookPriceDiscount": "node index.js updateBookPriceDiscount",
+    "calculateTotalPrice": "node index.js calculateTotalPrice",
+    "addBook": "node index.js addBook",
+    "seeUserList": "node index.js seeUserList",
+    "getBookInfo": "node index.js getBookInfo",
+    "removeBook": "node index.js removeBook",
+    "findBooksUnderPrice": "node index.js findBooksUnderPrice",
+    "emptyCart": "node index.js emptyCart",
+    "displayAllBooks": "node index.js displayAllBooks"
+  },
+  "keywords": [],
+  "author": "Claire Petit Frere",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.3.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}

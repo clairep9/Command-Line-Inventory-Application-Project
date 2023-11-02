@@ -1,0 +1,408 @@
+[
+    {
+        "name": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Classic Fiction"
+    },
+    {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "priceInCents": 274.06,
+        "inStock": true,
+        "genre": "Classic Fiction"
+    },
+    {
+        "name": "The Odyssey",
+        "author": "Homer",
+        "priceInCents": 1099,
+        "inStock": false,
+        "genre": "Epic Poetry"
+    },
+    {
+        "name": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "priceInCents": 1099,
+        "inStock": true,
+        "genre": "Psychological Fiction"
+    },
+    {
+        "name": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Adventure"
+    },
+    {
+        "name": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "priceInCents": 1099,
+        "inStock": false,
+        "genre": "Historical Fiction"
+    },
+    {
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Science Fiction"
+    },
+    {
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Gothic Fiction"
+    },
+    {
+        "name": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "priceInCents": 899,
+        "inStock": false,
+        "genre": "Modernist Literature"
+    },
+    {
+        "name": "The Road Not Taken",
+        "author": "Robert Frost",
+        "priceInCents": 499,
+        "inStock": true,
+        "genre": "Poetry"
+    },
+    {
+        "name": "The Wind in the Willows",
+        "author": "Kenneth Grahame",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Children's Literature"
+    },
+    {
+        "name": "The Art of War",
+        "author": "Sun Tzu",
+        "priceInCents": 699,
+        "inStock": true,
+        "genre": "Military Strategy"
+    },
+    {
+        "name": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Surrealism"
+    },
+    {
+        "name": "The Martian",
+        "author": "Andy Weir",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Science Fiction"
+    },
+    {
+        "name": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "priceInCents": 1099,
+        "inStock": true,
+        "genre": "Magic Realism"
+    },
+    {
+        "name": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Mystery"
+    },
+    {
+        "name": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "priceInCents": 999,
+        "inStock": false,
+        "genre": "Dystopian"
+    },
+    {
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Young Adult"
+    },
+    {
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Dystopian"
+    },
+    {
+        "name": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Dystopian"
+    },
+    {
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "priceInCents": 1099,
+        "inStock": true,
+        "genre": "High Fantasy"
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Southern Gothic"
+    },
+    {
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Adventure"
+    },
+    {
+        "name": "War and Peace",
+        "author": "Leo Tolstoy",
+        "priceInCents": 1199,
+        "inStock": false,
+        "genre": "Historical Fiction"
+    },
+    {
+        "name": "1984",
+        "author": "George Orwell",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Dystopian"
+    },
+    {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Romance"
+    },
+    {
+        "name": "Dracula",
+        "author": "Bram Stoker",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Gothic Horror"
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Coming-of-Age"
+    },
+    {
+        "name": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "priceInCents": 1199,
+        "inStock": true,
+        "genre": "Fiction"
+    },
+    {
+        "name": "The Shining",
+        "author": "Stephen King",
+        "priceInCents": 999,
+        "inStock": false,
+        "genre": "Horror"
+    },
+    {
+        "name": "The Iliad",
+        "author": "Homer",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Epic Poetry"
+    },
+    {
+        "name": "The Silmarillion",
+        "author": "J.R.R. Tolkien",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "High Fantasy"
+    },
+    {
+        "name": "Siddhartha",
+        "author": "Hermann Hesse",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Spiritual"
+    },
+    {
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Science Fiction"
+    },
+    {
+        "name": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "priceInCents": 1099,
+        "inStock": true,
+        "genre": "Psychological Fiction"
+    },
+    {
+        "name": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Fantasy"
+    },
+    {
+        "name": "The Outsiders",
+        "author": "S.E. Hinton",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Young Adult"
+    },
+    {
+        "name": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Fantasy"
+    },
+    {
+        "name": "How The Garcia Girls Lost Their Accent",
+        "author": "Julia Alvarez",
+        "priceInCents": 799,
+        "inStock": false,
+        "genre": "Historical Fiction"
+    },
+    {
+        "name": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "priceInCents": 1099,
+        "inStock": true,
+        "genre": "Epic Fantasy"
+    },
+    {
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Gothic Horror"
+    },
+    {
+        "name": "Little Women",
+        "author": "Louisa May Alcott",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Classics"
+    },
+    {
+        "name": "The Road",
+        "author": "Cormac McCarthy",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Post-Apocalyptic"
+    },
+    {
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Gothic Fiction"
+    },
+    {
+        "name": "The Goldfinch",
+        "author": "Donna Tartt",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Literary Fiction"
+    },
+    {
+        "name": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Adventure"
+    },
+    {
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Allegory"
+    },
+    {
+        "name": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Fantasy"
+    },
+    {
+        "name": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Novella"
+    },
+    {
+        "name": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Semi-Autobiographical"
+    },
+    {
+        "name": "The Stand",
+        "author": "Stephen King",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Horror"
+    },
+    {
+        "name": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Historical Fiction"
+    },
+    {
+        "name": "Gone Girl",
+        "author": "Gillian Flynn",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Mystery"
+    },
+    {
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Fantasy"
+    },
+    {
+        "name": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Mystery"
+    },
+    {
+        "name": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "priceInCents": 799,
+        "inStock": true,
+        "genre": "Mystery"
+    },
+    {
+        "name": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "priceInCents": 999,
+        "inStock": true,
+        "genre": "Historical Fiction"
+    },
+    {
+        "name": "In the Time of the Butterflies",
+        "author": "Julia Alvarez",
+        "priceInCents": 899,
+        "inStock": true,
+        "genre": "Historical Fiction"
+    }
+]
